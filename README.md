@@ -1,6 +1,6 @@
 - Random Recipe Picker: Display random recipe using a GUI Tkinter application, SQLite3 and Python
 
-- dependencies:
+- Dependencies:
   - Tkinter
   - Pillow (PIL)
   - NumPy
